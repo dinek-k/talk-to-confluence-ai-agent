@@ -1,0 +1,7 @@
+langchain==0.1.12
+streamlit==1.32.2
+atlassian-python-api==3.41.4
+python-dotenv==1.0.1
+langchain-openai==0.0.8
+beautifulsoup4==4.12.3
+chromadb==0.4.24 
